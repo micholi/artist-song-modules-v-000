@@ -1,5 +1,9 @@
 module Memorable
 
+# Reset Method
+
+
+# Count Method
 # Artist Methods
   # def self.reset_all
   #  self.all.clear
