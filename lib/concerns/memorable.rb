@@ -9,7 +9,7 @@ module Memorable
   def self.count
     self.all.count
   end
-  
+
 # Artist Methods
   # def self.reset_all
   #  self.all.clear
