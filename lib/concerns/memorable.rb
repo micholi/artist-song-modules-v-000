@@ -10,4 +10,8 @@ module Memorable
     end
   end
 
+  module InstanceMethods
+    def initialize
+      # more code coming soon
+  end
 end
